@@ -1,5 +1,5 @@
 # Variant-calling-pipeline
-Varaint calling pipeline of with:
+Varaint calling pipeline using:
 
 1.BWA for indexing and maping the reads
 
